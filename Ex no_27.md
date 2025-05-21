@@ -1,10 +1,10 @@
 # EX 27 C program that demonstrates the use of typedef to create a new alias name for a data type.
-## DATE:
+## DATE:11/05/2025
 ## AIM:
 To write a C program that demonstrates the use of typedef to create a new alias name for a data type.
 
 ## Algorithm
-1.Start the program and use typedef to create an alias for a data type. 
+1. Start the program and use typedef to create an alias for a data type. 
 2. Declare a variable using the new alias.
 3. Perform some operations or calculations using the variable.
 4. Display the result using the typedef alias name.
