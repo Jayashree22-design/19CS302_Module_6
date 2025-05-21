@@ -1,13 +1,17 @@
 # EX 30 C program to add two integer elements in an array using realloc() and that array already has three elements.
-## DATE:
+## DATE:11/05/2025
 ## AIM:
 To write a C program to add two integer elements in an array using realloc() and that array already has three elements.
 
 ## Algorithm
-1.Start the program and dynamically allocate memory for an array of 3 integers using malloc(). 
+1.Start the program and dynamically allocate memory for an array of 3 integers using malloc().
+
 2.Read 3 integers from the user and store them in the array.
+
 3.Use realloc() to resize the array and add space for 1 more integer.
+
 4.Read the 4th integer and add it to the array.
+
 5.Calculate and display the sum of all elements in the array, then free the allocated memory.
 
 ## Program:
