@@ -1,13 +1,17 @@
 # EX 29 C program to create two float variables using calloc() and find minimum among them.
-## DATE:
+## DATE:11/05/2025
 ## AIM:
 To write a C program to create two float variables using calloc() and find minimum among them.
 
 ## Algorithm
 1.Start the program and declare two float pointers. 
+
 2.Use calloc() to dynamically allocate memory for the two float variables.
+
 3.Read the values for both variables from the user.
+
 4.Compare the two values to find the minimum. 
+
 5.Display the minimum value and free the dynamically allocated memory.
 
 ## Program:
